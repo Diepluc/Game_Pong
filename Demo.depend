@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1619069522 source:e:\testsdl1\testsdl\demo\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	"BaseF.h"
+	"Ball.h"
+	"Paddle.h"
+	"Paddle_AI.h"
+	"Draw.h"
+
+1619018083 source:e:\testsdl1\testsdl\demo\paddle.cpp
+	"Paddle.h"
+	"BaseF.h"
+
+1619017533 e:\testsdl1\testsdl\demo\paddle.h
+	<SDL.h>
+
+1619022201 source:e:\testsdl1\testsdl\demo\basef.cpp
+	"BaseF.h"
+
+1619025918 e:\testsdl1\testsdl\demo\basef.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_mixer.h>
+	"Ball.h"
+
+1619022201 source:e:\testsdl1\testsdl\demo\ball.cpp
+	<iostream>
+	<SDL_mixer.h>
+	"Ball.h"
+	"BaseF.h"
+	"Paddle.h"
+
+1619016392 e:\testsdl1\testsdl\demo\ball.h
+	<SDL.h>
+	<SDL_mixer.h>
+	"Paddle.h"
+
+1619021727 source:e:\testsdl1\testsdl\demo\paddle_ai.cpp
+	<iostream>
+	"Paddle_AI.h"
+
+1619017616 e:\testsdl1\testsdl\demo\paddle_ai.h
+	"Paddle.h"
+	"Ball.h"
+	"BaseF.h"
+
+1619026409 source:e:\testsdl1\testsdl\demo\draw.cpp
+	"Draw.h"
+
+1619026081 e:\testsdl1\testsdl\demo\draw.h
+	<SDL.h>
+	<iostream>
+	"BaseF.h"
+	"Ball.h"
+
