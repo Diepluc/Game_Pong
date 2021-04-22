@@ -1,3 +1,10 @@
+ Cách cài đặt :
+ 	Setup các thư viện :
+	   + SDL2
+	   + SDL_mixer
+	   
+	   
+ 
  Các chức năng :
 1.Menu
   - Bấm phím số 1 để chọn chế độ chơi 1 người
